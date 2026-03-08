@@ -17,11 +17,11 @@
 </picture>
 
 <br><br>
- 🏫 Studying at the Faculty of `Computers & Artificial Intelligence` at `South Valley National University`.
+ 🏫 Studying at the Faculty of `Computers & Artificial Intelligence` at `Qena National University`.
 
  🧑‍🎓 Computer Science & AI Student
 
- 🧑‍💻 Focused on building `Full Stack` and `Software Engineering` projects, with an interest in integrating `AI/ML` solutions.
+ 🧑‍💻 Focused on building `Software Engineering` projects, with an interest in integrating `AI/ML` solutions.
 
  🧠 Strong foundational skills in `Algorithms` and `Data Structures (DSA)`. I maintain my skills as a `Competitive Programmer`.
 
